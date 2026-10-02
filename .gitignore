@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets — jamais commité
+.env
+*.token
+reddit_credentials.json
+
+# OS
+.DS_Store
